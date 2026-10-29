@@ -1,4 +1,4 @@
-# 🚀 Bhartiya Antriksh Hackathon (BAH) 2026
+#  Bhartiya Antriksh Hackathon (BAH) 2026
 
 ## Problem Statement: Infrared Image Colorization and Enhancement for Improved Object Interpretation
 
